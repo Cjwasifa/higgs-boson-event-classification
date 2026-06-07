@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Higgs Boson Event Classification Using Machine Learning
 
 ## Overview
