@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Higgs Boson Event Classification Using Machine Learning
 
 ## Overview
@@ -127,3 +128,4 @@ CERN_Event_Classification
 ## Author
 
 Wasifa Jahan Chaudhry
+
