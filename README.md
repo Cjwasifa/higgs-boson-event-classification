@@ -128,3 +128,8 @@ CERN_Event_Classification
 
 Wasifa Jahan Chaudhry
 
+## Full Project Report
+
+The complete project report is available here:
+
+[Project Report PDF](report/project_report.pdf)
